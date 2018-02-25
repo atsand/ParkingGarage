@@ -10,7 +10,7 @@ namespace BonusLab13
             Start();
         }
 
-        //Starts the program and allows for recursiong
+        //Starts the program and allows for recursion
         public static void Start()
         {
             FindSpot(CarType());
